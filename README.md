@@ -10,6 +10,8 @@ Place the files from the TTMenu directory of this repository into the TTMenu fol
 
 Overwrite the existing files named `YSMenu1.bmp`, `YSMenu2.bmp`, and `YSMenu.ini` if prompted.
 
+**PS**: The files can also be found under [Releases](https://github.com/cybardev/ysmenu-theme-persona5/releases)
+
 ---
 
 ![preview image](./TTMenu/full-preview.png "Persona 5 theme preview")
